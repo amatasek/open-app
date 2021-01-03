@@ -3,6 +3,12 @@
 
 Confluence: [30 Day Growth Challenge](https://artisantechgroup.atlassian.net/wiki/spaces/AI/pages/1108475905/30+Day+Growth+Challenge)
 
+## Overall Plan/Goal
+Days 1-14: React Native
+Days 15-30: Azure Blueprints
+
+Goal: Build a complete template application using React Native and Azure Blueprints to be used as a foundation for making new applications.
+
 
 ## Daily Log
 
@@ -19,4 +25,16 @@ Confluence: [30 Day Growth Challenge](https://artisantechgroup.atlassian.net/wik
 
 ### 1/3
 
-TODO
+1. Completed module 3 of "React Native: The Big Picture" course on Pluralsight. Thoughts so far:
+	* Very basic, high level overview of Reactive Native.
+	* Better suited for a sales person or product stakeholder evaluating frameworks.
+	* Learned about the overall philosophy of the framework.
+	* Love the mobile first, but also a web-app mindset.
+	* Impressed with the promises, seems like an almost perfect choice for a modern application.
+	* 2.5 Stars
+2. Tools/links that may be useful:
+	* React Native Debugger
+	* Microsoft CodePush (App Center)
+	* [Official Blog](https://reactnative.dev/blog)
+	* [Docs](https://reactnative.dev/docs/getting-started)
+	* [Source Code](https://github.com/facebook/react-native)
