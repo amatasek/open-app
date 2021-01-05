@@ -38,3 +38,11 @@ Goal: Build a complete template application using React Native and Azure Bluepri
 	* [Official Blog](https://reactnative.dev/blog)
 	* [Docs](https://reactnative.dev/docs/getting-started)
 	* [Source Code](https://github.com/facebook/react-native)
+
+### 1/4
+1. Completed the course "React Native: The Big Picture".
+2. To Start:
+	* npm install -g expo-cli
+	* expo init MyNewProject
+	* cd MyNewProject npm start
+3. Alternative: [ignite](https://github.com/infinitered/ignite)
