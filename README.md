@@ -46,3 +46,8 @@ Goal: Build a complete template application using React Native and Azure Bluepri
 	* expo init MyNewProject
 	* cd MyNewProject npm start
 3. Alternative: [ignite](https://github.com/infinitered/ignite)
+
+### 1/5
+1. Installed node/npm
+2. Installed expo
+3. Initialized a brand new React Native app using ignite and explored the template!
