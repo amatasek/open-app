@@ -59,3 +59,6 @@ Goal: Build a complete template application using React Native and Azure Bluepri
 
 ### 1/8
 1. Continued course and experimented with running and debugging the app
+
+### 1/10
+1. Continued course and added basic navigation to the app!
