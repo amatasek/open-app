@@ -65,3 +65,6 @@ Goal: Build a complete template application using React Native and Azure Bluepri
 
 ### 1/11
 1. Deviated from the plan tonight when I wondered about making a custom hardware monitoring dashboard inside the app. Spent way to much time learning about hardware statistic servers and their apis. Installed one and began configuring it.
+
+### 1/13
+1. Returned to my Pluralsight course "React Native: Getting Started" and completed a few more sections.
