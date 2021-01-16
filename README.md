@@ -68,3 +68,6 @@ Goal: Build a complete template application using React Native and Azure Bluepri
 
 ### 1/13
 1. Returned to my Pluralsight course "React Native: Getting Started" and completed a few more sections.
+
+### 1/15
+1. Enjoyed the next few sections in bed :)
