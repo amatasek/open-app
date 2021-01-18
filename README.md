@@ -71,3 +71,6 @@ Goal: Build a complete template application using React Native and Azure Bluepri
 
 ### 1/15
 1. Enjoyed the next few sections in bed :)
+
+### 1/15
+1. learned about navigation and deep linking in react native.
