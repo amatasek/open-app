@@ -1,4 +1,5 @@
 
+
 # 30 Day Growth Challenge
 
 Confluence: [30 Day Growth Challenge](https://artisantechgroup.atlassian.net/wiki/spaces/AI/pages/1108475905/30+Day+Growth+Challenge)
@@ -72,9 +73,19 @@ Goal: Build a complete template application using React Native and Azure Bluepri
 ### 1/15
 1. Enjoyed the next few sections in bed :)
 
-### 1/15
+### 1/16
 1. learned about navigation and deep linking in react native.
 
-### 1/16
+### 1/17
 1. Learned about text inputs and building forms in react native. 
 2. Learned about setting the state on a component.
+
+### 1/20
+1. Finished the React Native tutorial.
+	- Style merging
+	- Consuming api's
+	- Using npm packages
+	- JSON server (cool little dev tool actually)
+	- Expo env's
+	- 
+2. Overall thoughts: Really enjoyed this class, and the React Native development experience. It certainly prove it's viability as a framework, but also exposed me to some of its fickleness. 
