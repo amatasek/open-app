@@ -89,3 +89,6 @@ Goal: Build a complete template application using React Native and Azure Bluepri
 	- Expo env's
 	- Ejecting the app (seems drastic)
 2. Overall thoughts: Really enjoyed this class, and the React Native development experience. It certainly prove it's viability as a framework, but also exposed me to some of its fickleness. 
+
+### 1/23
+1. set up personal Azure account for experimentation/learning.
