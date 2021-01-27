@@ -96,3 +96,8 @@ Goal: Build a complete template application using React Native and Azure Bluepri
 ### 1/25
 1. Looked for Pluralsight courses on Azure Blueprints but could not find any. 
 2. Browsed other similar topics and found a course eventually called “Implement a containerization strategy”
+
+### 1/26
+1. Completed the first module of Azure: Implement a containerization strategy, and really enjoyed it
+2. Learned the ins and outs of ACR (Azure Container Registry).
+3. Feeling inspired to get on track for an Azure cert.
